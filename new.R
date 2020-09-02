@@ -1,2 +1,3 @@
-print('thia file was created within rstudio')
+print('this file was created within Rstudio')
 print('and now this file existing in git repository')
+
